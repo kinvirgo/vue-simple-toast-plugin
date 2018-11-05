@@ -22,3 +22,26 @@ var Vue = require('vue')
 var SimpleToast = require('vue-simple-toast-plugin')
 ...
 ```
+
+效果展示
+---
+```
+this.$Toast.info(...)
+```
+![](./resources/info.jpg '消息')
+```
+this.$Toast.success(...)
+```
+![](./resources/success.jpg '成功')
+```
+this.$Toast.warn(...)
+```
+![](./resources/warn.jpg '警告')
+```
+this.$Toast.error(...)
+```
+![](./resources/error.jpg '错误')
+```
+this.$Toast.load(...)
+```
+![](./resources/load.jpg '加载')
