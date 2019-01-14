@@ -23,6 +23,11 @@ var SimpleToast = require('vue-simple-toast-plugin')
 ...
 ```
 
+## 参数
+-   msg [String] : 展示的内容
+-   option [Object] 可选:  扩展配置
+    -   vHtml [Boolean] : 渲染方式以html渲染,默认false
+
 效果展示
 ---
 ```

@@ -1,6 +1,6 @@
 {
     "name": "vue-simple-toast-plugin",
-    "version": "1.0.0-alpha.0",
+    "version": "1.0.0-alpha.3",
     "description": "simple toast for vue2",
     "main": "index.js",
     "directories": {

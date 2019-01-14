@@ -15,7 +15,7 @@ export default {
     }),
     methods: {
         info: function() {
-            this.$Toast.info('this is test', {
+            this.$Toast.info('this is <b>T</b>test', {
                 // duration : 20000,
             })
         },
